@@ -1,7 +1,4 @@
-using namespace std;
-#include "Pair.h"
-#include "Queue.h"
-#include "Pipe.h"
+
 #include "flappybird.h"
 
 // Functions
