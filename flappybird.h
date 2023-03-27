@@ -4,9 +4,8 @@
 #include "Queue.h"
 #include "Pipe.h"
 #include "Bird.h"
-// using namespace bridges::game;
+using namespace bridges::game;
 using namespace std;
-
 
 class Birdgame 
 //: public NonBlockingGame
